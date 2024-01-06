@@ -8,14 +8,14 @@ Mission: To accelerate the UK's transition to a green economy by fostering colla
 
 Vision: To create a thriving network of individuals, businesses, and communities dedicated to environmental responsibility and sustainable practices.
 
-##Platform Overview
+## Platform Overview
 EcoConnect's platform provides a comprehensive digital space for:
 
 Connecting members and promoting networking opportunities.
 Sharing knowledge through educational resources, community projects, and industry expertise.
 Taking action by engaging in environmental challenges, promoting sustainable products, and tracking carbon footprints.
 Growing a stronger green economy through business support and industry insights.
-##Key Functional Components
+## Key Functional Components
 The platform's functionality is powered by several interconnected entities:
 
 User Entity: Manages user profiles, including registration information, bio, and activity involvement.
@@ -27,7 +27,7 @@ EducationalResource Entity: Provides valuable learning materials like articles, 
 MonthlyEcoChallenge Entity: Introduces monthly challenges centered on eco-awareness, featuring themes, durations, and rewards for completion.
 CorporateSustainabilityProfile Entity: Showcases the sustainability initiatives and practices of organizations, along with their scores and descriptions.
 CarbonFootprintTracker Entity: Enables users to track their personal carbon footprint based on specific data and date entries.
-##Relationships & Interactions
+## Relationships & Interactions
 The entities within EcoConnect are intricately linked, fostering a dynamic and interconnected platform:
 
 Users can participate in environmental challenges, contribute to community projects, and utilize educational resources.
@@ -35,8 +35,8 @@ Green products are tagged with relevant categories and sustainability scores, ai
 Organizations can develop sustainability scorecards, showcase their initiatives through profiles, and participate in community projects.
 Educational resources are categorized and tagged with keywords, facilitating user discovery and knowledge exploration.
 Monthly eco-challenges encourage user engagement and promote eco-awareness, while carbon footprint tracking empowers individuals to assess their environmental impact.
-##Technology Stack
+## Technology Stack
 EcoConnect leverages a robust technology stack to ensure platform stability, scalability, and performance. The specific technologies chosen may vary depending on ongoing development and optimization efforts.
 
-##Contribution & Feedback
+## Contribution & Feedback
 EcoConnect welcomes contributions from its community to evolve and improve the platform. Developers and users alike can share ideas, report bugs, and propose enhancements through established channels (e.g., GitHub repositories, forums).
