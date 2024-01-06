@@ -1,6 +1,6 @@
 # EcoConnect-ER-Diagam-SQL-
 
-## EcoConnect: Accelerating the UK's Green Economy
+## EcoConnect: Accelerating the UK's Green Economy##
 EcoConnect is the UK's green industry business network, empowering individuals, communities, and companies to work together in building a sustainable future. This README outlines the architecture and functionality of EcoConnect's platform, highlighting its key components and their interrelationships.
 
 ##Mission & Vision
